@@ -1,0 +1,1 @@
+The primary functionality of this project is to allow users to check off deliverables for each of the colleges they are applying to. This will eventually be implemented to be automatically done based on the user's credentials.
