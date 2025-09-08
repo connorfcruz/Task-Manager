@@ -1,0 +1,1 @@
+This project's primary UI will display all of the user's colleges in a scrollable format, each displaying application progress, application due date, and other factors.
